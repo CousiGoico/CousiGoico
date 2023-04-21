@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CousiGoico.
 - 👀 I’m interested in the programming.
-- 🌱 I’m currently learning Azure.
-- 💞️ I’m looking to collaborate on nothing for the moment.
+- 🌱 I’m currently learning Azure DevOps.
 - 📫 How to reach me ...
 
 <!---
