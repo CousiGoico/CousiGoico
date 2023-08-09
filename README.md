@@ -23,11 +23,11 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 ## 🧠 Tengo conocimientos en
 
-| FRONT END   | BACK END | DATABASE   | SCRIPTING  | CLOUD     |
-| ----------- | ---------|------------|------------|-----------|
-| JavasScript | C#       | Sql Server | PowerShell | Azure     |
-| HTML 5      | ASP.NET  | Oracle     | Azure CLI  |           |
-| CSS 3       |          |            |            |           |
-| Angular     |          |            |            |           |
-| TypeScript  |          |            |            |           |
+| FRONT END   | BACK END | DATABASE   | SCRIPTING  | CLOUD     | OPS          | OS      | OTHERS    |
+|-------------|----------|------------|------------|-----------|--------------|---------|-----------|
+| JavasScript | C#       | Sql Server | PowerShell | Azure     | GitHub       | Windows | Git       |
+| HTML 5      | ASP.NET  | Oracle     | Azure CLI  |           | Azure DevOps | Linux   | Postman   |
+| CSS 3       |          |            |            |           |              | macOS   |           |
+| Angular     |          |            |            |           |              | Android |           |
+| TypeScript  |          |            |            |           |              |         |           |
 
