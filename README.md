@@ -23,20 +23,24 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 
 
+
+
+## :recycle: Fuera de la programación
+
+:memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación AZ-400.
+
+:bicyclist::soccer::bowling:  Me gusta hacer deporte como jugar al futbol, salir a montar en bici por el campo, entre otros...
+
+:evergreen_tree::palm_tree::city_sunrise::sunrise_over_mountains:  Me encanta viajar y conocer lugares nuevos, tanto dentro como fuera del país.
+
+:video_game::black_joker::game_die: Disfruto jugando a videojuegos de todo tipo (plataformas, shooters, mundo abierto, ...), a las cartas o juegos de mesa. Otra afición que tengo es la lectura de ciencia ficción.
+
+:soccer: Soy fan del Real Madrid, ¡Hala Madrid!
+
+
+
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://c0us1.net/uno-mas-en-el-mundo-de-la-programacion/) <br />
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fco-javier-cousi%C3%B1o/)
-
-
-
-## Fuera de la programación
-
-🛠 Actualmente estoy estudiando Azure DevOps para examinarme del certificado AZ-400
-
-🚴🏼‍♀️  Me gusta hacer deporte como jugar al futbol, salir a montar en bici por el campo, entre otros...
-
-👀 Disfruto jugando a videojuegos de todo tipo (plataformas, shooters, mundo abierto, ...)
-
-🌲  Me encanta viajar y conocer lugares nuevos, tanto dentro como fuera del páis.
-
-💬 Soy fan del Real Madrid, ¡Hala Madrid!
