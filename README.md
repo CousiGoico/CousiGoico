@@ -1,5 +1,5 @@
 
-# Hola mundo! 👋
+# Hola, mundo! 👋
 
 
 Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unidad de Sogeti. Actualmente en mi trabajo realizo todo tipo de desarrollos tanto de FrontEnd como de Backend, por lo que me podría considerar un FullStack. No obstante, me siento más cómodo realizando proyectos en la parte del cliente con ASP.NET, Blazor, HTML, JS y CSS, entre otros. Intento añadir todo mi conocimiento tanto aquí en GitHub como en mi página web.
@@ -41,6 +41,15 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 
 
-## 🔗 Links
+## 🔗 Enlaces
 [![Web](https://img.shields.io/badge/c0us1.net-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://c0us1.net/) <br />
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fco-javier-cousi%C3%B1o/)
+
+
+
+
+## 📈 Estadísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cousigoico&layout=compact&theme=dark)](https://github.com/cousigoico?tab=repositories)
+
+##
