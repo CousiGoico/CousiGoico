@@ -27,7 +27,7 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 ## :recycle: Fuera de la programación
 
-:memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación AZ-400.
+:memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación de Microsoft AZ-400.
 
 :bicyclist::soccer::bowling:  Me gusta hacer deporte como jugar al futbol, salir a montar en bici por el campo, entre otros...
 
