@@ -25,6 +25,7 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 
 
+
 ## :recycle: Fuera de la programación
 
 :memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación de Microsoft AZ-400.
