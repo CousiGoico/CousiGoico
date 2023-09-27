@@ -27,7 +27,7 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 ## :recycle: Fuera de la programación
 
-:memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación de Microsoft AZ-400.
+:memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación de Microsoft AZ-400. 
 
 :bicyclist::soccer::bowling:  Me gusta hacer deporte como jugar al futbol, salir a montar en bici por el campo, entre otros...
 
@@ -35,7 +35,8 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 :video_game::black_joker::game_die: Disfruto jugando a videojuegos de todo tipo (plataformas, shooters, mundo abierto, ...), a las cartas o juegos de mesa. Otra afición que tengo es la lectura de ciencia ficción.
 
-:soccer: Soy fan del Real Madrid, ¡Hala Madrid!
+:soccer:
+ Soy fan del Real Madrid, ¡Hala Madrid!
 
 
 
