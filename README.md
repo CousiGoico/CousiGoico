@@ -19,7 +19,7 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 |IDE| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
 |CONTROL VERSIONS | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Team Foundation Version Control](https://img.shields.io/badge/Team%20Foundation%20Version%20Control-0078d7?style=for-the-badge&logo=AZURE%20DEVOPS&logoColor=white)|
 |PACKAGES| ![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=NuGet&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
-|OTHERS| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  |
+|OTHERS| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/-WindowsTerminal-121013?style=for-the-badge&logo=windows-terminal&logoColor=white)|
 
 
 
