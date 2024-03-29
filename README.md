@@ -6,52 +6,104 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 
 ## 🧠 Tengo conocimientos en   
- 
-
-FRONT END
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
 
 
-BACK END
+### FRONTEND
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML 5" title="HTML 5" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" title="jQuery" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS 3" title="CSS 3" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" title="Bootstrap" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" title="Angular" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MUI/007FFF" alt="Material UI" title="Material UI" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" title="Blazor" style="margin-right:5px" />
 
-DATABASE
+### BACKEND
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Postgresql](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<img height="32" width="32" src="https://cdn.simpleicons.org/CSharp/512BD4" alt="C#" title="C#" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/VisualBasic/512BD4" alt="Visual Basic" title="Visual Basic" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/.NET/512BD4" alt=".Net" title=".Net" style="margin-right:5px" />
 
-SCRIPTING
+### DATABASE
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftSQLServer/CC2927" alt="Microsoft SQL Server" title="Microsoft SQL Server" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/PostgreSQL/4169E1" alt="Postgresql" title="Postgresql" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Oracle/F80000" alt="Oracle" title="Oracle" style="margin-right:5px" />
 
-CLOUD - HOSTING
+### SCRIPTING
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<img height="32" width="32" src="https://cdn.simpleicons.org/PowerShell/5391FE" alt="PowerShell" title="PowerShell" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/WindowsTerminal/4D4D4D" alt="Windows Terminal" title="Windows Terminal" style="margin-right:5px" />
 
-OPS
+### CLOUD - HOSTING
 
-![Azure DevOps](https://img.shields.io/badge/AZURE%20DEVOPS-0078d7?style=for-the-badge&logo=AZURE%20DEVOPS&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" title="Azure" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/AzureFunctions/0062AD" alt="Azure Functions" title="Azure Functions" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/AzureDataExplorer/0062AD" alt="Azure Data Explorer" title="Azure Data Explorer" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" alt="Github Pages" title="Github Pages" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/WordPress/21759B" alt="WordPress" title="WordPress" style="margin-right:5px" />
 
-OS
+### OPS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img height="32" width="32" src="https://cdn.simpleicons.org/AZUREDEVOPS/0078D7" alt="Azure DevOps" title="Azure DevOps" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/AzurePipelines/2560E0" alt="Azure Pipelines" title="Azure Pipelines" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/AzureArtifacts/CB2E6D" alt="Azure Artifacts" title="Azure Artifacts" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/GitHub/FFFFFF" alt="GitHub" title="GitHub" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/GitHubActions/FFFFFF" alt="GitHub Actions" title="GitHub Actions" style="margin-right:5px" />
 
-IDE
+### OS
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows" title="Windows" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Linux/FCC624" alt="Linux" title="Linux" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/macOS/FFFFFF" alt="macOS" title="macOS" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Android/34A853" alt="Android" title="Android" style="margin-right:5px" />
 
-CONTROL VERSIONS 
+### IDE
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Team Foundation Version Control](https://img.shields.io/badge/Team%20Foundation%20Version%20Control-0078d7?style=for-the-badge&logo=AZURE%20DEVOPS&logoColor=white)
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code" title="Visual Studio Code" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio" title="Visual Studio" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudioAppCenter/CB2E6D" alt="Visual Studio App Center" title="Visual Studio App Center" style="margin-right:5px" />
 
-PACKAGES
+### CONTROL VERSIONS 
 
-![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=NuGet&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+<img height="32" width="32" src="https://cdn.simpleicons.org/Git/F05032" alt="Git" title="Git" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/AzureDevOps/0078D7" alt="Team Foundation Version Control" title="Team Foundation Version Control" style="margin-right:5px" />
 
-OTHERS
+### PACKAGES
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)   ![DrawIO](https://img.shields.io/badge/-DrawIO-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white) 
+<img height="32" width="32" src="https://cdn.simpleicons.org/NuGet/004880" alt="NuGet" title="NuGet" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/NPM/CB3837" alt="NPM" title="NPM" style="margin-right:5px" />
+
+### OFFICE AND TOOLS
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftWord/2B579A" alt="Microsoft Word" title="Microsoft Word" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftExcel/217346" alt="Microsoft Excel" title="Microsoft Excel" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftAccess/A4373A" alt="Microsoft Access" title="Microsoft Access" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftPowerPoint/B7472A" alt="Microsoft Power Point" title="Microsoft Power Point" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftOutlook/0078D4" alt="Microsoft Outlook" title="Microsoft Outlook" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftOneNote/7719AA" alt="Microsoft OneNote" title="Microsoft OneNote" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftTeams/6264A7" alt="Microsoft Teams" title="Microsoft Teams" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftOneDrive/0078D4" alt="Microsoft OneDrive" title="Microsoft OneDrive" style="margin-right:5px" />
+
+### BROWSERS
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftEdge/0078D7" alt="Microsoft Edge" title="Microsoft Edge" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/GoogleChrome/4285F4" alt="Google Chrome" title="Google Chrome" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/FireFoxBrowser/FF7139" alt="Firefox" title="Firefox" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Opera/FF1B2D" alt="Opera" title="Opera" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Safari/006CFF" alt="Safari" title="Safari" style="margin-right:5px" />
+
+### OTHERS
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/Postman/FF6C37" alt="Postman" title="Postman" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Jira/0052CC" alt="Jira" title="Jira" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/JiraSoftware/0052CC" alt="Jira Software" title="Jira Software" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Swagger/85EA2D" alt="Swagger" title="Swagger" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Diagrams.Net/F08705" alt="DrawIO" title="DrawIO" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/D3.js/F9A03C" alt="D3 js" title="D3 js" style="margin-right:5px" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/JsonWebTokens/FFFFFF" alt="JSON Web Tokens" title="JSON Web Tokens" style="margin-right:5px" />
 
 
 ## :recycle: Fuera de la programación
