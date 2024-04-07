@@ -30,7 +30,7 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 <img height="24" width="24" src="https://cdn.simpleicons.org/Postman/FF6C37" alt="Postman" title="Postman"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/Jira/0052CC" alt="Jira" title="Jira"  />   <img height="24" width="24" src="https://cdn.simpleicons.org/JiraSoftware/0052CC" alt="Jira Software" title="Jira Software"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/Swagger/85EA2D" alt="Swagger" title="Swagger"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/Diagrams.Net/F08705" alt="DrawIO" title="DrawIO"  />   <img height="24" width="24" src="https://cdn.simpleicons.org/D3.js/F9A03C" alt="D3 js" title="D3 js"  />    <img height="24" width="24" src="https://cdn.simpleicons.org/JsonWebTokens/FFFFFF" alt="JSON Web Tokens" title="JSON Web Tokens"  />
 
 
-## :recycle: Fuera de la programación
+## :recycle: Fuera de la programación 
 
 :memo: Actualmente estoy estudiando Azure DevOps para examinarme de la certificación de Microsoft AZ-400. 
 
