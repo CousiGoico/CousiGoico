@@ -57,6 +57,6 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 ## 📈 Estadísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cousigoico&layout=compact&theme=dark)](https://github.com/cousigoico?tab=repositories)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cousigoico&show_icons=true&theme=dark)
+
 
 ##
