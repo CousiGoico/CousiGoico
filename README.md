@@ -5,7 +5,7 @@
 Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unidad de Sogeti. Actualmente en mi trabajo realizo todo tipo de desarrollos tanto de FrontEnd como de Backend, por lo que me podría considerar un FullStack. No obstante, me siento más cómodo realizando proyectos en la parte del cliente con ASP.NET, Blazor, HTML, JS y CSS, entre otros. Intento añadir todo mi conocimiento tanto aquí en GitHub como en mi página web.
 
  
-## 🧠 Tengo conocimientos en 
+## 🧠 Tengo conocimientos en
 
 
 Frontend <img height="24" width="24" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML 5" title="HTML 5"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" title="jQuery"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS 3" title="CSS 3"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" title="Bootstrap"  />    <img height="24" width="24" src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" title="Angular"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/MUI/007FFF" alt="Material UI" title="Material UI"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" title="Blazor"  />
