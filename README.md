@@ -34,7 +34,7 @@ Others <img height="24" width="24" src="https://cdn.simpleicons.org/Postman/FF6C
 :video_game::black_joker::game_die: Disfruto jugando a videojuegos de todo tipo (plataformas, shooters, mundo abierto, ...), a las cartas o juegos de mesa. Otra afición que tengo es la lectura de ciencia ficción.
 
 :soccer:
- Soy fan del Real Madrid, ¡Hala Madrid!
+ Me considero un vikingo, ¡Hala Madrid!
 
 
 
