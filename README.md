@@ -67,7 +67,7 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 #### Others 
 
-<table>
+<table style='border: 0px'>
 	<tr>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" alt="PowerShell" title="PowerShell" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" title="Postman" /></td>
