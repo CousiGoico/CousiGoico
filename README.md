@@ -102,10 +102,13 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 ##  Repositories
 
-- :octocat: [CousiGoico](https://github.com/CousiGoico/CousiGoico): perfil de GitHub.
-- :art: [hugo-theme-dream](https://github.com/CousiGoico/hugo-theme-dream): tema para proyectos con Hugo.
-- :test_tube: [Jasmine-Karma](https://github.com/CousiGoico/Jasmine-Karma): PoC de pruebas con Jasmine.
-- :gift: [InvisibleFriend](https://github.com/CousiGoico/InvisibleFriend): aplicación para gestionar un amigo invisible.
+:octocat: [CousiGoico](https://github.com/CousiGoico/CousiGoico): perfil de GitHub.
+
+:art: [hugo-theme-dream](https://github.com/CousiGoico/hugo-theme-dream): tema para proyectos con Hugo.
+
+:test_tube: [Jasmine-Karma](https://github.com/CousiGoico/Jasmine-Karma): PoC de pruebas con Jasmine.
+
+:gift: [InvisibleFriend](https://github.com/CousiGoico/InvisibleFriend): aplicación para gestionar un amigo invisible.
 
 ## 🔗 Enlaces
 [![Web](https://img.shields.io/badge/c0us1.net-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://c0us1.net/) <br />
