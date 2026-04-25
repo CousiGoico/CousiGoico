@@ -37,16 +37,16 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 :soccer:
  Me considero un vikingo, ¡Hala Madrid!
 
+##  Repositories
 
-
-
+- [CousiGoico](https://github.com/CousiGoico/CousiGoico): perfil de GitHub.
+- [hugo-theme-dream](https://github.com/CousiGoico/hugo-theme-dream): 
+- [Jasmine-Karma](https://github.com/CousiGoico/Jasmine-Karma): PoC de pruebas con Jasmine.
+- [InvisibleFriend](https://github.com/CousiGoico/InvisibleFriend): aplicación para gestionar un amigo invisible.
 
 ## 🔗 Enlaces
 [![Web](https://img.shields.io/badge/c0us1.net-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://c0us1.net/) <br />
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fco-javier-cousi%C3%B1o/)
-
-
-
 
 ## 📈 Estadísticas
 
