@@ -102,61 +102,89 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 
 ##  Repositories
 
-- :bar_chart: [AnalizerProject](https://github.com/CousiGoico/AnalizerProject): Repositorio de codigo y pruebas. Tecnologias: C#.
+- [AnalizerProject](https://github.com/CousiGoico/AnalizerProject) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Proyecto para analizar otros proyectos, sus métodos y código.
 
-- :triangular_ruler: [Angular](https://github.com/CousiGoico/Angular): Repositorio de codigo y pruebas. Tecnologias: HTML, TypeScript, CSS.
+- [Angular](https://github.com/CousiGoico/Angular) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" />
+	<br />Repositorio de codigo y pruebas.
 
-- :triangular_ruler: [AngularChangeLog](https://github.com/CousiGoico/AngularChangeLog): Repositorio de codigo y pruebas. Tecnologias: HTML, TypeScript, SCSS.
+- [AngularChangeLog](https://github.com/CousiGoico/AngularChangeLog) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/sass/CC6699" alt="SCSS" title="SCSS" />
+	<br />Proyecto de prueba para la verificación de librería que genera ChangeLogs en Angular.
 
-- :triangular_ruler: [AngularHandleError](https://github.com/CousiGoico/AngularHandleError): Repositorio de codigo y pruebas. Tecnologias: TypeScript, SCSS, HTML.
+- [AngularHandleError](https://github.com/CousiGoico/AngularHandleError) <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/sass/CC6699" alt="SCSS" title="SCSS" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" />
+	<br />Proyecto de prueba para la verificación de librería que gestiona y administra incidencias en Angular.
 
-- :triangular_ruler: [AngularMaterialChangeTheme](https://github.com/CousiGoico/AngularMaterialChangeTheme): Repositorio de codigo y pruebas. Tecnologias: TypeScript, SCSS, HTML.
+- [AngularMaterialChangeTheme](https://github.com/CousiGoico/AngularMaterialChangeTheme) <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/sass/CC6699" alt="SCSS" title="SCSS" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" />
+	<br />Repositorio de prueba para realizar preubas sobre el cambio de temas en Angular.
 
-- :cloud: [AzureDevOpsWorkItemAPI](https://github.com/CousiGoico/AzureDevOpsWorkItemAPI): Repositorio de codigo y pruebas. Tecnologias: C#.
+- [AzureDevOpsWorkItemAPI](https://github.com/CousiGoico/AzureDevOpsWorkItemAPI) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio de pruebas de conexión con la API de Azure DevOps.
 
-- :computer: [BlazorApp4](https://github.com/CousiGoico/BlazorApp4): Repositorio de codigo y pruebas. Tecnologias: C#, HTML, CSS.
+- [BlazorApp4](https://github.com/CousiGoico/BlazorApp4) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" />
+	<br />Repositorio de codigo y pruebas en Blazor.
 
-- :computer: [BlazorControls](https://github.com/CousiGoico/BlazorControls): Repositorio de codigo y pruebas. Tecnologias: HTML, CSS, C#.
+- [BlazorControls](https://github.com/CousiGoico/BlazorControls) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" /> <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio de controles en Blazor.
 
-- :computer: [BlazorWasm](https://github.com/CousiGoico/BlazorWasm): Repositorio de codigo y pruebas. Tecnologias: CSS, HTML, C#.
+- [BlazorWasm](https://github.com/CousiGoico/BlazorWasm) <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio de codigo y pruebas de WebAssembly para Blazor.
 
-- :1234: [Calculadora](https://github.com/CousiGoico/Calculadora): Repositorio de codigo y pruebas. Tecnologias: TypeScript, HTML, CSS.
+- [Calculadora](https://github.com/CousiGoico/Calculadora) <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" />
+	<br />Proyecto calculadora en web.
 
-- :gear: [ChangeSettings](https://github.com/CousiGoico/ChangeSettings): Repositorio de codigo y pruebas. Tecnologias: C#.
+- [ChangeSettings](https://github.com/CousiGoico/ChangeSettings) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio de codigo y pruebas.
 
-- :repeat: [ConvertBytesBase64](https://github.com/CousiGoico/ConvertBytesBase64): Repositorio de codigo y pruebas. Tecnologias: C#.
+- [ConvertBytesBase64](https://github.com/CousiGoico/ConvertBytesBase64) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Proyecto de conversión entre bytes a base 64.
 
-- :bust_in_silhouette: [CousiGoico](https://github.com/CousiGoico/CousiGoico): Mi perfil en GitHub. Tecnologias: N/D.
+- [CousiGoico](https://github.com/CousiGoico/CousiGoico) <img height="18" width="18" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" title="GitHub" />
+	<br />Mi perfil en GitHub.
 
-- :globe_with_meridians: [cousigoico.github.io](https://github.com/CousiGoico/cousigoico.github.io): Portfolio. Tecnologias: HTML, CSS, JavaScript.
+- [cousigoico.github.io](https://github.com/CousiGoico/cousigoico.github.io) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" /> <img height="18" width="18" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+	<br />Portfolio.
 
-- :chart_with_upwards_trend: [GraphsAndNotes](https://github.com/CousiGoico/GraphsAndNotes): Repositorio de codigo y pruebas. Tecnologias: N/D.
+- [GraphsAndNotes](https://github.com/CousiGoico/GraphsAndNotes) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/D3.js.svg" alt="D3 js" title="D3 js" />
+	<br />Repositorio de gráficos y notas.
 
-- :art: [HTML-CSS-JS](https://github.com/CousiGoico/HTML-CSS-JS): Repositorio de codigo y pruebas. Tecnologias: HTML, JavaScript.
+- [HTML-CSS-JS](https://github.com/CousiGoico/HTML-CSS-JS) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+	<br />Proyecto de ejemplos de controles web.
 
-- :sparkles: [hugo-theme-dream](https://github.com/CousiGoico/hugo-theme-dream): Tema Dream para Hugo (fork). Tecnologias: CSS, HTML, JavaScript.
+- [hugo-theme-dream](https://github.com/CousiGoico/hugo-theme-dream) <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+	<br />Tema Dream para Hugo (fork).
 
-- :gift: [InvisibleFriend](https://github.com/CousiGoico/InvisibleFriend): Invisible friend game. Tecnologias: N/D.
+- [InvisibleFriend](https://github.com/CousiGoico/InvisibleFriend) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML 5" title="HTML 5" /> <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" title="JavaScript" /> <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS 3" title="CSS 3" />
+	<br />Invisible friend game.
 
-- :microscope: [Jasmine-Karma](https://github.com/CousiGoico/Jasmine-Karma): Repositorio de codigo y pruebas. Tecnologias: JavaScript.
+- [Jasmine-Karma](https://github.com/CousiGoico/Jasmine-Karma) <img height="18" width="18" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+	<br />Repositorio de codigo y pruebas.
 
-- :memo: [Notes](https://github.com/CousiGoico/Notes): Repositorio de codigo y pruebas. Tecnologias: Markdown.
+- [Notes](https://github.com/CousiGoico/Notes) <img height="18" width="18" src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" title="Markdown" />
+	<br />Repositorio de notas.
 
-- :bookmark_tabs: [PeriodicTableHTML](https://github.com/CousiGoico/PeriodicTableHTML): Repositorio de codigo y pruebas. Tecnologias: HTML, JavaScript.
+- [PeriodicTableHTML](https://github.com/CousiGoico/PeriodicTableHTML) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+	<br />Tabla periodica con todos los tags de HTML.
 
-- :scroll: [PowerShellScripts](https://github.com/CousiGoico/PowerShellScripts): Repositorio de codigo y pruebas. Tecnologias: PowerShell.
+- [PowerShellScripts](https://github.com/CousiGoico/PowerShellScripts) <img height="18" width="18" src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" alt="PowerShell" title="PowerShell" />
+	<br />Repositorio de scripts en PowerShell.
 
-- :hammer: [Projects](https://github.com/CousiGoico/Projects): Repositorio de codigo y pruebas. Tecnologias: JavaScript, CSS, HTML.
+- [Projects](https://github.com/CousiGoico/Projects) <img height="18" width="18" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" />
+	<br />Hola mundo.
 
-- :rabbit: [RabbitMQ](https://github.com/CousiGoico/RabbitMQ): Repositorio de codigo y pruebas. Tecnologias: C#.
+- [RabbitMQ](https://github.com/CousiGoico/RabbitMQ) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio PoC de RabbitMQ.
 
-- :page_facing_up: [Swagger](https://github.com/CousiGoico/Swagger): Repositorio de codigo y pruebas. Tecnologias: C#.
+- [Swagger](https://github.com/CousiGoico/Swagger) <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio de PoC de Swagger.
 
-- :white_check_mark: [TestingAngularApp](https://github.com/CousiGoico/TestingAngularApp): Repositorio de codigo y pruebas. Tecnologias: HTML, TypeScript, CSS.
+- [TestingAngularApp](https://github.com/CousiGoico/TestingAngularApp) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" />
+	<br />Repositorio de pruebas en Angular.
 
-- :white_check_mark: [UnitTests](https://github.com/CousiGoico/UnitTests): Repositorio de codigo y pruebas. Tecnologias: HTML, CSS, C#.
+- [UnitTests](https://github.com/CousiGoico/UnitTests) <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" /> <img height="18" width="18" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" />
+	<br />Repositorio de test unitarios.
 
-- :clapper: [videoclub](https://github.com/CousiGoico/videoclub): Repositorio de codigo y pruebas. Tecnologias: TypeScript, HTML, CSS.
+- [videoclub](https://github.com/CousiGoico/videoclub) <img height="18" width="18" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /> <img height="18" width="18" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /> <img height="18" width="18" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" />
+	<br />Proyecto de prueba de Videoclub.
 
 ## 🔗 Enlaces
 [![Web](https://img.shields.io/badge/c0us1.net-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://c0us1.net/) <br />
