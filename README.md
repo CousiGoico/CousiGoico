@@ -103,32 +103,59 @@ Soy Javier Cousiño y estoy trabajando como programador en Capgemini, en la unid
 ##  Repositories
 
 - :bar_chart: [AnalizerProject](https://github.com/CousiGoico/AnalizerProject): Repositorio de codigo y pruebas. Tecnologias: C#.
+
 - :triangular_ruler: [Angular](https://github.com/CousiGoico/Angular): Repositorio de codigo y pruebas. Tecnologias: HTML, TypeScript, CSS.
+
 - :triangular_ruler: [AngularChangeLog](https://github.com/CousiGoico/AngularChangeLog): Repositorio de codigo y pruebas. Tecnologias: HTML, TypeScript, SCSS.
+
 - :triangular_ruler: [AngularHandleError](https://github.com/CousiGoico/AngularHandleError): Repositorio de codigo y pruebas. Tecnologias: TypeScript, SCSS, HTML.
+
 - :triangular_ruler: [AngularMaterialChangeTheme](https://github.com/CousiGoico/AngularMaterialChangeTheme): Repositorio de codigo y pruebas. Tecnologias: TypeScript, SCSS, HTML.
+
 - :cloud: [AzureDevOpsWorkItemAPI](https://github.com/CousiGoico/AzureDevOpsWorkItemAPI): Repositorio de codigo y pruebas. Tecnologias: C#.
+
 - :computer: [BlazorApp4](https://github.com/CousiGoico/BlazorApp4): Repositorio de codigo y pruebas. Tecnologias: C#, HTML, CSS.
+
 - :computer: [BlazorControls](https://github.com/CousiGoico/BlazorControls): Repositorio de codigo y pruebas. Tecnologias: HTML, CSS, C#.
+
 - :computer: [BlazorWasm](https://github.com/CousiGoico/BlazorWasm): Repositorio de codigo y pruebas. Tecnologias: CSS, HTML, C#.
+
 - :1234: [Calculadora](https://github.com/CousiGoico/Calculadora): Repositorio de codigo y pruebas. Tecnologias: TypeScript, HTML, CSS.
+
 - :gear: [ChangeSettings](https://github.com/CousiGoico/ChangeSettings): Repositorio de codigo y pruebas. Tecnologias: C#.
+
 - :repeat: [ConvertBytesBase64](https://github.com/CousiGoico/ConvertBytesBase64): Repositorio de codigo y pruebas. Tecnologias: C#.
+
 - :bust_in_silhouette: [CousiGoico](https://github.com/CousiGoico/CousiGoico): Mi perfil en GitHub. Tecnologias: N/D.
+
 - :globe_with_meridians: [cousigoico.github.io](https://github.com/CousiGoico/cousigoico.github.io): Portfolio. Tecnologias: HTML, CSS, JavaScript.
+
 - :chart_with_upwards_trend: [GraphsAndNotes](https://github.com/CousiGoico/GraphsAndNotes): Repositorio de codigo y pruebas. Tecnologias: N/D.
+
 - :art: [HTML-CSS-JS](https://github.com/CousiGoico/HTML-CSS-JS): Repositorio de codigo y pruebas. Tecnologias: HTML, JavaScript.
+
 - :sparkles: [hugo-theme-dream](https://github.com/CousiGoico/hugo-theme-dream): Tema Dream para Hugo (fork). Tecnologias: CSS, HTML, JavaScript.
+
 - :gift: [InvisibleFriend](https://github.com/CousiGoico/InvisibleFriend): Invisible friend game. Tecnologias: N/D.
+
 - :microscope: [Jasmine-Karma](https://github.com/CousiGoico/Jasmine-Karma): Repositorio de codigo y pruebas. Tecnologias: JavaScript.
+
 - :memo: [Notes](https://github.com/CousiGoico/Notes): Repositorio de codigo y pruebas. Tecnologias: Markdown.
+
 - :bookmark_tabs: [PeriodicTableHTML](https://github.com/CousiGoico/PeriodicTableHTML): Repositorio de codigo y pruebas. Tecnologias: HTML, JavaScript.
+
 - :scroll: [PowerShellScripts](https://github.com/CousiGoico/PowerShellScripts): Repositorio de codigo y pruebas. Tecnologias: PowerShell.
+
 - :hammer: [Projects](https://github.com/CousiGoico/Projects): Repositorio de codigo y pruebas. Tecnologias: JavaScript, CSS, HTML.
+
 - :rabbit: [RabbitMQ](https://github.com/CousiGoico/RabbitMQ): Repositorio de codigo y pruebas. Tecnologias: C#.
+
 - :page_facing_up: [Swagger](https://github.com/CousiGoico/Swagger): Repositorio de codigo y pruebas. Tecnologias: C#.
+
 - :white_check_mark: [TestingAngularApp](https://github.com/CousiGoico/TestingAngularApp): Repositorio de codigo y pruebas. Tecnologias: HTML, TypeScript, CSS.
+
 - :white_check_mark: [UnitTests](https://github.com/CousiGoico/UnitTests): Repositorio de codigo y pruebas. Tecnologias: HTML, CSS, C#.
+
 - :clapper: [videoclub](https://github.com/CousiGoico/videoclub): Repositorio de codigo y pruebas. Tecnologias: TypeScript, HTML, CSS.
 
 ## 🔗 Enlaces
